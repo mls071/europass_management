@@ -1,2 +1,8 @@
 # europass_management
-Portfolio of manual test cases and documented bug reports
+This repository contains a portfolio of manual test cases and documented bug reports for Europass Management. It covers key functionalities, including:
+    -creating CVs
+    -editing CVs 
+    -saving CVs
+    -downloading CVs
+    -replacing CVs
+    -deleting CVs
