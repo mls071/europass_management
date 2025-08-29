@@ -6,7 +6,7 @@ As a registered user, I want to be able to create a CV, save it to my Europass l
 
 ## Contents
 - **Test cases**: available in **PDF** (exported from Google Sheets) and **XLSX** formats covering creation, saving, editing, replacing, downloading, deleting and validation.
-- **Bug reports**: available in PDF format (exported from Jira).
+- **Bug reports**: available in **PDF** format (exported from Jira).
 
 ## Tools used
 - **Jira** - for bug reporting
